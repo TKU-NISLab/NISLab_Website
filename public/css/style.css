@@ -168,7 +168,7 @@ ul.navbar-nav li.active .dropdown-menu > .active > a:focus { background: #1A8CCD
 .navbar-brand {
   width: 300px;
   height: 90px;
-  background: url('/img/top_logo.png') left center no-repeat;
+  background: url('/img/top_logo.png') left center repeat-x;
   text-indent: -99999px;
 }
 
