@@ -79,8 +79,7 @@
 
 	/* logo */
     .navbar-brand {
-    	background-image: url(/img/top_logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 300px 90px !important;
+    	background-image: url(/img/top_logo@2x.png) !important; background-repeat: no-repeat !important; background-size: 300px 85px !important;
     }
 
 }
-
